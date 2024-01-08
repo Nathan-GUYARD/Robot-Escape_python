@@ -1,7 +1,7 @@
 ### **Installation**
 
 Il suffit de lancer le fichier **RobotEscape.bat**.
-Pour lancer le programme il faut avoir Python et la librairie **pygame**
+Pour lancer le programme il faut avoir Python et les librairies **pygame** et **pytmx**.
 
 ### **Contexte**
 
